@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikukopteff
-- 👀 I’m interested in functional programming, quantum computing, scalability and robotics 🤖.
-- 🌱 I’m currently learning Arduino, Raspberry Pi and Tensorflow.
+- 👀 I’m interested in AI, LLMs, functional programming, quantum computing, scalability and robotics 🤖.
+- 🌱 I’m currently learning LLMs and AI.
 - 💞️ I’m looking to collaborate on anything really :)
 
 
